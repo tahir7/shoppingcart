@@ -1,0 +1,24 @@
+1) vite create vite
+    typescript
+2) npm install 
+
+3) 
+
+4) npm i @tanstack/react-query
+   npm i @tanstack/react-query-devtools@4.28
+
+5) npm i axios
+6)  https://fakestoreapi.com/
+
+7) npm config set legacy-peer-deps true (to solve material ui error)  
+
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+npm i react-router-dom
+npm i redux react-redux 
+
+npm i redux react-redux @reduxjs/toolkit
+
+npm install stripe --save
+
+npm i dotenv
